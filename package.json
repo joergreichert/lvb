@@ -32,7 +32,7 @@
 	"dependencies": {
 		"fetch-ponyfill": "^6.1.0",
 		"lodash": "^4.17.15",
-		"moment-timezone": "^0.5.27",
+		"moment-timezone": "^0.5.30",
 		"p-queue": "^6.2.0"
 	},
 	"devDependencies": {
